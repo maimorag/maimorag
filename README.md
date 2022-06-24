@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maimorag
 - 👀 I’m passionate about c++,c, python
-- 🌱 I’m currently learning computer science- 3rd year on Technion in Haifa
+- 🌱 I’m currently studying computer science at Technion in Haifa
 - 📫 you can reach me at morag.mai10@gmail.com
 
 <!---
